@@ -1,4 +1,4 @@
 ## Estudo sobre Linux/Open-source.
 ---
-### Esse estudo tem como foco PRINCIPAL aprofundar em pesquisas e explicações para o uso de Linux e Open-source em empresas, tanto quanto linux é necessário, e quanto é apenas uma escolha.
+### Este estudo tem como foco principal analisar o uso de Linux e Open-Source em empresas, buscando diferenciar quando sua adoção é uma necessidade e quando é uma escolha estratégica.
 
